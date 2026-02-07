@@ -1,5 +1,7 @@
+# 统计列表中个元素出现次数
+
 from collections import Counter
-#统计列表中个元素出现次数
+
 list1 = []
 n = int(input("请输入列表元素个数："))
 for i in range(n):

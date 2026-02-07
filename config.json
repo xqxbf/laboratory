@@ -1,0 +1,10 @@
+{
+    "debug": false,
+    "host": "127.0.0.1",
+    "port": 8080,
+    "log_level": "INFO",
+    "database": {
+        "type": "sqlite",
+        "path": "data.db"
+    }
+}

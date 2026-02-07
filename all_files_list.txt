@@ -1,0 +1,804 @@
+config.json
+encrypted_text.txt
+example.txt
+grades.db
+list_all_files.py
+output.txt
+rename_files.py
+response.html
+sample.txt
+student.db
+test.db
+.git\COMMIT_EDITMSG
+.git\config
+.git\description
+.git\HEAD
+.git\index
+.git\hooks\applypatch-msg.sample
+.git\hooks\commit-msg.sample
+.git\hooks\fsmonitor-watchman.sample
+.git\hooks\post-update.sample
+.git\hooks\pre-applypatch.sample
+.git\hooks\pre-commit.sample
+.git\hooks\pre-merge-commit.sample
+.git\hooks\pre-push.sample
+.git\hooks\pre-rebase.sample
+.git\hooks\pre-receive.sample
+.git\hooks\prepare-commit-msg.sample
+.git\hooks\push-to-checkout.sample
+.git\hooks\sendemail-validate.sample
+.git\hooks\update.sample
+.git\info\exclude
+.git\logs\HEAD
+.git\logs\refs\heads\main
+.git\objects\00\172d7fbfe88ad8dd0360626039960c89e64e37
+.git\objects\02\9d4e5fcde3872fb3d996844f760895c6f1d49d
+.git\objects\06\70f4627e11ba8fd55cd5dc10f2f14c44bbf710
+.git\objects\08\3397e0e0dd7d756ebc88ae70f815b81b2db33c
+.git\objects\09\109e491c61d1edefc2e1f22f69fda8de19018f
+.git\objects\09\3fb5f27849e99572c79ec799dc9f61c57d7755
+.git\objects\0a\55dbdd053eb2e50cb5cebba481bd3f5b1fb56c
+.git\objects\0d\daa78157fe2902efd39848803276e96712f946
+.git\objects\0d\e99aab5b661c15b8266e8294ceb6c256f1fd60
+.git\objects\0e\9c9efd45ac5b9baeb2d0414f76d92625d76f82
+.git\objects\10\ae20c87909c406489d19f2c34e99008631d79c
+.git\objects\11\d0f8e355159deff4b559861958b26430b51aec
+.git\objects\12\9c1fc7e33403a3f64f13aa3549fd2fa2b54a95
+.git\objects\15\68630418ae8d7caa63e6b1d874441898d21d37
+.git\objects\17\15e85437e352743d217615897bf34c53a0520f
+.git\objects\1a\86dabbbfd148375e4eef9fe331901f594a4650
+.git\objects\1d\57f044409c6af84febf24aa7f8af759d3d3be8
+.git\objects\1d\6ed21cf84dcda9a73ebce758cff20c71f87c67
+.git\objects\1f\1ba0549c2a8fed02b09bc4ae4c5c29c54ba7ce
+.git\objects\22\04fc366a11f6ef6ef67713c231b58ec7edee8b
+.git\objects\22\cc2be38a8bedbb5f9e644d504cf98d8a2837a1
+.git\objects\23\c23ee55a6e7cee2fa0c779a8b8e615edf63f94
+.git\objects\25\6f81755cbfda79613618f26c8feb781a5e18c2
+.git\objects\26\be327671104b0f901dabc2f7c09b27ff80eb9c
+.git\objects\27\b9d6fed16aa702b8c57384a0c50732d2b1c07e
+.git\objects\28\4d49bbb3e8fb31c49d849457c1479792b690d3
+.git\objects\2a\9580b87ae6ef8ae1a813511f79c49096fb7d7c
+.git\objects\30\d1d39845adf388dcf3a061f8072856cb2859a3
+.git\objects\31\8d26374248d8dc001d4adee7a2fed31b0d5d58
+.git\objects\31\b689b86168944488d20f8a2b8a2409c6863a61
+.git\objects\31\f7b8a64e967e9e93295d75c49831587b5b3cb9
+.git\objects\33\124202fa175e4555bbdc26e01568347c205e14
+.git\objects\37\27540beb3ca9cd48b4447730f1febda312b794
+.git\objects\38\65a2d73fe046757c456a5fc4407b232fe6f723
+.git\objects\41\69032678ea9e72e17b7adf265f73f154905ee3
+.git\objects\41\7388f108baa446a435fae210fe4fb56b0462f2
+.git\objects\45\1e74952b627dcaa78fb280a3a3cb728c9e3272
+.git\objects\45\ad01388b5883195a109d7c3418586b7aa634ec
+.git\objects\47\e07155d480a85a4acb12dafb842559fbba03a6
+.git\objects\48\0cd0ffbb4660569858ecb55fef857066559611
+.git\objects\4a\61405157831d04f404ab8a516f3812252b5079
+.git\objects\4e\4536ed2e7ed5eb8738dc10c28397267087c048
+.git\objects\4e\89806ea79e9ccc31b11875fb55e8330333938d
+.git\objects\50\99eb3cbbfbb3a4bb16c9bab8c72c59db92f2b7
+.git\objects\51\833c9d675be13949d193836a5b85998a00805d
+.git\objects\52\54f96ba2057ea5536dbed5dfa626e159636a88
+.git\objects\54\db89cf5d43c093059af3bee3920c996faae8aa
+.git\objects\55\3c9ff0eae690be5111ab7d2d0b9848ea9c5ce2
+.git\objects\55\b006a98e13ba98a81fcf340001889a385665b7
+.git\objects\5a\a342365513fb1d9142a7a7a9b0e90a117f3dce
+.git\objects\5c\b7f82e378d3e97d71f33723610186089b89966
+.git\objects\5d\b201fd2c4a7f86ab765c5fd4991eed159db716
+.git\objects\5d\d01c177f5d7d1be5346a5bc18a569a7410c2ef
+.git\objects\60\9d301ca1a9a626b13f831c7c4d6115600b2990
+.git\objects\61\bd61d9221f113076fb32f75416718151cb801e
+.git\objects\63\46ce7fc01ebd8d2cf2e4b3820310fddfd573c4
+.git\objects\63\ccf7559620b8263302ca785d358cb974869677
+.git\objects\64\1059bab698b1b121750d5d50699db1ca64c82b
+.git\objects\64\2ff51b622a96116b33063bdd43d8a622bbfe99
+.git\objects\65\586c5ac735ad59666c0e0a8798ad6c4052fb26
+.git\objects\65\5997e49078ca81540b812f4270aa5d319d48ec
+.git\objects\65\b3c517da5e27c0ec4b4c6b2d50c8f629f21655
+.git\objects\67\c93238f0f1bdba0ca60646b03761dd8f926c36
+.git\objects\68\7b6f110f08bcd5f7944f44d0b8784e955b15ff
+.git\objects\69\dfac989b57616be015bd22677e79479a9f9741
+.git\objects\69\f92904dd52e32c5dde653de4eece95a44a1547
+.git\objects\6a\8fae1c49cf4c17387e925460372e31d898aded
+.git\objects\6a\b95ad8ccbaae454840b626cab0494a006072e9
+.git\objects\6c\5f2f4bcc6805be28c9e2e923feaf8319c5bfcd
+.git\objects\6e\99ff8a2131286c428896fa1a44e745be337539
+.git\objects\6f\939f9a5ec861698a36236d8183fde274cad7c8
+.git\objects\71\58467abbb15b9f75b2437b00eab4d717a94972
+.git\objects\71\6a19cfd5f4c18e89104745b26b483c20c68888
+.git\objects\74\9004444bd1bb31760464ebe6a560566160078f
+.git\objects\76\63f82cd630e7b277719415c24fec3c4b4ad863
+.git\objects\7d\a79b58c255da7021ba166f46d6e11807c54058
+.git\objects\81\a693733ae4782e7e6e4387a4d4974f7205caba
+.git\objects\82\c3e3e4f2d161ff32a676b52944d99424cbe890
+.git\objects\83\e66a5dad9ca1fb024bb544bdb4897a4a879097
+.git\objects\84\e7b4af9f18ebe558fb68f212827f2dab6774cc
+.git\objects\88\0d4fedb8d4e5dc7b42c637472e33d87d7be5d0
+.git\objects\88\671092f4d15b917868c9201f0dab61952c58fc
+.git\objects\8b\1c111b4a52ff91b9a425b376b3a08e53c490a4
+.git\objects\8e\e59b7d103ec027196ec571f81d41321094132e
+.git\objects\8f\85621b2a06ef1c62d450a5f023d0bdf070522c
+.git\objects\95\3a1934e5f59bbaeddb700c12adcb18001bf3dc
+.git\objects\95\da90de63c02d4bc8c0dd9821ee24bc14ab50a7
+.git\objects\95\fdaa681c72d75c32fd7f55e0f78e30350fb5e4
+.git\objects\98\2ffb44739301ada1d8bbc79c7203bd54972b11
+.git\objects\9a\d3164c42ebf4051b4ed4922734d8e0cfeb70b9
+.git\objects\9a\fb56fa2b6075bc284bd4e2c29ee783cd0f1d1e
+.git\objects\9b\8dd4acabcf240102b64110355cb8aa524458d6
+.git\objects\9c\f992f98ba20f88922321e2f329aeebbbd56159
+.git\objects\a0\14f0517be4134ca7bfe06f5976da612818cb24
+.git\objects\a0\b366df11f828a1f895441ba5333ca874fedf11
+.git\objects\a1\804defa41980120660b16f85364d11a5699674
+.git\objects\a2\0e45c7b2b9381fbab7296b5f176866b15faf5e
+.git\objects\a3\52fe8bfde0a60e22e14a63818de8c0d5416f1e
+.git\objects\a5\161761f3e7c9492c97dd7968d3aad9c7f777ca
+.git\objects\a8\8b3444b47f3e6b9ce97d5d860357e33dc4cde9
+.git\objects\a9\fab17423c464c57c5ec2b1cb5fea1c9eaae419
+.git\objects\ad\fb234a234d882d53ef2b28b589c4ae2f2824fa
+.git\objects\ae\128bed77ace03d25aa0389bf75cbffa15a8f32
+.git\objects\ae\fa8db4181136194e598ab949f94d0ba09a7a92
+.git\objects\b3\da6e643b637c3953f49e75582970664df90daa
+.git\objects\b6\0b332f5ba4702f8c78a2280fdc9c5f3f753014
+.git\objects\b7\0f3aa235a4478a35576e40ee6ee08696347265
+.git\objects\ba\0c69308cec670c615dd6d1b13755acca90a59a
+.git\objects\ba\96c7311810dc906c8c95eba24ed2f2c10ed6ca
+.git\objects\bb\3a52994662651e40157f40252664a81abeb002
+.git\objects\be\6db10e7198e6bbc30c7a03d7be4f48a8e63f14
+.git\objects\bf\14ad744b4f8b9021d988278dbc2e74bac40ba0
+.git\objects\bf\fcc0d5ae64ccff55a01fbdae6725ec02929d2e
+.git\objects\c2\fcf9f1ab811d75f316167685a6464326a1eccc
+.git\objects\c5\c7aa5a1313b6d0f0f8223a29f7a4db383ad6ed
+.git\objects\cb\b7db8c6b6e7b582228c5fcfe4ddea423989a17
+.git\objects\cd\0fad7b4f8864f7ca20175916a953478f28f4a4
+.git\objects\cd\262b8f8fa7c8c78f515fe6a555a5643e0c0e6a
+.git\objects\cf\05296d222fe5bce1662d1fb3e80f47e61eb79c
+.git\objects\d2\430e922e84537ccacfd685e2438f44829d84ef
+.git\objects\d5\b7acf604e289aa9548434b6c3e14af10196507
+.git\objects\d5\d58b156ff9d4c8cecdc92fe40aa2e02f0cd9a8
+.git\objects\d6\0635db9d3b116f1415c3fc66caf86d410dec2f
+.git\objects\d8\e0951dfd1566afa03c8ffc5478f4285b473bdf
+.git\objects\d9\22564923bd710276bf525f3015542151c461b7
+.git\objects\da\4c6ce9e19c44783f8d5bd7f6d34b0060fee918
+.git\objects\db\61a75169140e15a3e662375f8eaba2ce15965e
+.git\objects\db\ac0cff9fb1eb48c8470ac93b0446b63d5491f0
+.git\objects\dd\0883dca84e5e90b7f6719bdafc681067d66cb1
+.git\objects\dd\b96658e02f4f9071fc33c5d9a8ae978837e0ea
+.git\objects\de\12a2d26516d113b5fe00a02391c64bb64f6e70
+.git\objects\de\b6b7f96512021fe6cd1a59c6f6af5fc5eb9cca
+.git\objects\df\74c38dea81ad8de0bacab038b65f825f82ed5d
+.git\objects\df\ae9153e856f4b71a9e9ae3f4299ad4fa0e2294
+.git\objects\e2\0812fc068c277410f548bbfda778f34a06b814
+.git\objects\e6\9de29bb2d1d6434b8b29ae775ad8c2e48c5391
+.git\objects\e7\3e7163decf3af34046e0370cf5d692a54966e0
+.git\objects\e8\9439061a3458f9e28ecc11357665b3266df6c1
+.git\objects\e8\a0d973bf9e8bfc8e70031cedd07a9a96ec6343
+.git\objects\ea\ff68fcb972b4b9329fac4b78e927bfb7b1e25a
+.git\objects\ed\73c20e9282c897192e86d444a279ee37a4680c
+.git\objects\ed\c1be27a5f9b67031047455c18e85366ed20625
+.git\objects\f0\33d930a175dc9f309656c9a336ea01e787c1f6
+.git\objects\f1\9b414dcd0a9387130f3818a7c80506c11e913e
+.git\objects\f2\b7625da83cbfa450ce77b3ecc656c7282c13e5
+.git\objects\f4\23230f71080763f4c11b6a94c011a4dd1e7137
+.git\objects\f4\9664c3e13d32b75768d1847032865b7c548b49
+.git\objects\f8\5147c9a53f93ee362ea3af010e31177687a7d8
+.git\objects\f8\9ddeeaf969afc3a6bf40cc76c0305503512f96
+.git\objects\fb\bc040811e1a707751a1516cf228d49a6243a83
+.git\objects\fc\089f6fdc189e34ee2b79573d2a577de936eb1b
+.git\refs\heads\main
+.trae\documents\重命名Python文件计划.md
+1-40\1 输出字符串Hello, World!.py
+1-40\10 实现加减乘除运算.py
+1-40\11 输入n，打印1到n的所有整数.py
+1-40\12 求1到n的和.py
+1-40\13 打印乘法表（单行）.py
+1-40\14 输入10个数，统计正负数和零的个数.py
+1-40\15 计算n的阶乘·.py
+1-40\16 判断一个数是否为素数.py
+1-40\17 输出斐波那契数列的前n项.py
+1-40\18 反转一个整数.py
+1-40\19 计算两个数的最大公约数.py
+1-40\2 输入姓名，输出Hello, 【姓名】!.py
+1-40\20 计算两个数的最小公倍数.py
+1-40\21 输入n个数，求它们的和（while循环).py
+1-40\22 输入n个数，求平均分.py
+1-40\23 用打印直角三角形.py
+1-40\24 用打印等腰三角形.py
+1-40\25 根据输入打印对应大小的菱形.py
+1-40\26 公鸡5元，母鸡3元，小鸡1元3只，100元买100只鸡.py
+1-40\27 水仙花数.py
+1-40\28 判断一个数是否等于其所有真因子之和.py
+1-40\29 输入n个数，找出最大最小值.py
+1-40\3 输入两个整数，输出他们的和.py
+1-40\30 统计整数各位数字中奇数偶数的个数.py
+1-40\31 猴子每天吃一半加一个，第10天生一个，求第1天总数.py
+1-40\32 球从100米落下，每次反弹一般高度，求第10次落地经过的总路程.py
+1-40\33 用莱布尼兹级数求π的近似值.py
+1-40\34 输入n个数，求最大连续子序列和.py
+1-40\35 将一个正整数分解为质因数.py
+1-40\36 判断两个数是否为亲密数.py
+1-40\37 判断一个数是否为回文数.py
+1-40\38 找出小于n的最大平方数.py
+1-40\39 打印数字金字塔(如1，121， 12321， ).py
+1-40\4 输入长和宽，计算矩形面积.py
+1-40\40 21+32+53+85+...前20项和.py
+1-40\5 判断输入的整数是奇数还是偶数.py
+1-40\6 输入一个数，输出它的绝对值.py
+1-40\7 将摄氏温度转换为华氏温度.py
+1-40\8 输入三个数，找出最大值.py
+1-40\9 根据分数输出等级.py
+41-90\41 创建包含10个元素的列表，进行各种访问操作.py
+41-90\42 演示列表的增删改查.py
+41-90\43 演示列表排序的各种方法.py
+41-90\44 使用列表推导式创建各种列表.py
+41-90\45 去除列表中的重复元素.py
+41-90\46 合并两个列表并排序.py
+41-90\47 实现3x3矩阵的加法和乘法.py
+41-90\48 统计列表中个元素出现次数.py
+41-90\49 将列表元素向右旋转k个位置.py
+41-90\50 将列表分成指定大小的块.py
+41-90\51 定义计算圆面积的函数.py
+41-90\52 创建一个带默认参数的问候函数.py
+41-90\53 创建接受任意数量参数的求和函数.py
+41-90\54 函数返回多个值(元组).py
+41-90\55 用递归实现阶乘计算.py
+41-90\56 用递归实现斐波那契数列.py
+41-90\57 匿名函数（lambda函数）.py
+41-90\58 函数作为参数，实现简单的map函数函数作为参数，实现简单的map函数.py
+41-90\59 闭包应用：创建计数器函数.py
+41-90\60 装饰器基础：创建简单的计时装饰器.py
+41-90\61 多种方法字符串反转.py
+41-90\62 判断字符串是否回文.py
+41-90\63 统计字符串中各字符出现次数.py
+41-90\64 统计英文句子中的单词数.py
+41-90\65 查找子串出现的所有位置.py
+41-90\66 替换字符串中的特定字符.py
+41-90\67 各种大小写转换方法.py
+41-90\68 split和join的使用.py
+41-90\69 多种字符串格式化方法比较.py
+41-90\70 验证字符串是否符合特定格式.py
+41-90\71 创建一个学生信息字典.py
+41-90\72 演示字典的增删改查.py
+41-90\73 合并多个字典的方法.py
+41-90\74 按键或按值对字典排序.py
+41-90\75 使用推导式创建字典.py
+41-90\76 集合的创建与基本运算.py
+41-90\78 使用集合对列表去重.py
+41-90\79 统计列表中元素出现的个数.py
+41-90\80 使用字典管理学生成绩.py
+41-90\81 实现添加、删除、查找联系人.py
+41-90\82 统计文本中单词出现的频率.py
+41-90\83 实现凯撒密码加密、解密.py
+41-90\84 计算机生成数字，用户猜.py
+41-90\85 石头剪刀布(人机对战).py
+41-90\86 支持多种运算的计算机函数.py
+41-90\87 计算两个日期中间的时间差.py
+41-90\88 12小时制与24小时制转换.py
+41-90\89 长度、重量、温度单位转换.py
+41-90\90 求解二元一次方程组.py
+91-130\100 创建一个简单的日志记录系统.py
+91-130\101 创建并使用一个自定义异常类.py
+91-130\102 断言使用：使用assert进行调试.py
+91-130\103 创建自定义上下文管理器.py
+91-130\104 一个except处理多个异常.py
+91-130\105 处理异常并抛出新异常.py
+91-130\106 确保资源被正确释放.py
+91-130\107 验证用户输入的完整性.py
+91-130\108 处理网络请求中的异常.py
+91-130\109 模拟数据库操作异常处理.py
+91-130\110 综合的错误处理框架.py
+91-130\111 导入和使用标准库模块.py
+91-130\112 创建并使用自定义模块.py
+91-130\113 创建具有层次结构的包.py
+91-130\114 动态重新加载模块.py
+91-130\115 访问模块的属性和方法.py
+91-130\116 安装和使用pip安装的库.py
+91-130\117 创建和使用虚拟环境.py
+91-130\118 编写模块的模块字符串(调用前请在文件名前面加上_).py
+91-130\119 微模块编写简单测试(对_118.py进行测试).py
+91-130\120 使用argparse 处理命令行参数.py
+91-130\121 学生成绩管理系统：用文件储存学生成绩.py
+91-130\122 创建个人日记程序.py
+91-130\123 词汇测试程序 从文件读取词汇.py
+91-130\124 生成程序配置文件.py
+91-130\125 备份指定目录的文件.py
+91-130\126.py
+91-130\127 处理学生成绩csv文件.py
+91-130\128 简单数据库：用文件实现字典储存.py
+91-130\129 文本加密储存：将加密的文本储存到文件冲.py
+91-130\130 批量重命名文件.py
+91-130\91 创建文件并写入内容.py
+91-130\92 多种方式读取文件内容.py
+91-130\93 异常处理基础.py
+91-130\94 w文件异常处理.py
+91-130\95 将一个文件复制到另一个文件.py
+91-130\96 合并多个文本文件.py
+91-130\97 统计文本文件的行数、单词数、字符数.py
+91-130\98 读取CSV格式的数据文件.py
+91-130\99 读写ini格式的配置文件.py
+91-130\test.py
+diaries\admin_20260207_123851.txt
+diaries\users.db
+logs\20260131_155834.log
+logs\20260131_162339.log
+logs\url_requests.log
+venv\.gitignore
+venv\pyvenv.cfg
+venv\Lib\site-packages\pip\py.typed
+venv\Lib\site-packages\pip\__init__.py
+venv\Lib\site-packages\pip\__main__.py
+venv\Lib\site-packages\pip\__pip-runner__.py
+venv\Lib\site-packages\pip\_internal\build_env.py
+venv\Lib\site-packages\pip\_internal\cache.py
+venv\Lib\site-packages\pip\_internal\configuration.py
+venv\Lib\site-packages\pip\_internal\exceptions.py
+venv\Lib\site-packages\pip\_internal\main.py
+venv\Lib\site-packages\pip\_internal\pyproject.py
+venv\Lib\site-packages\pip\_internal\self_outdated_check.py
+venv\Lib\site-packages\pip\_internal\wheel_builder.py
+venv\Lib\site-packages\pip\_internal\__init__.py
+venv\Lib\site-packages\pip\_internal\cli\autocompletion.py
+venv\Lib\site-packages\pip\_internal\cli\base_command.py
+venv\Lib\site-packages\pip\_internal\cli\cmdoptions.py
+venv\Lib\site-packages\pip\_internal\cli\command_context.py
+venv\Lib\site-packages\pip\_internal\cli\index_command.py
+venv\Lib\site-packages\pip\_internal\cli\main.py
+venv\Lib\site-packages\pip\_internal\cli\main_parser.py
+venv\Lib\site-packages\pip\_internal\cli\parser.py
+venv\Lib\site-packages\pip\_internal\cli\progress_bars.py
+venv\Lib\site-packages\pip\_internal\cli\req_command.py
+venv\Lib\site-packages\pip\_internal\cli\spinners.py
+venv\Lib\site-packages\pip\_internal\cli\status_codes.py
+venv\Lib\site-packages\pip\_internal\cli\__init__.py
+venv\Lib\site-packages\pip\_internal\commands\cache.py
+venv\Lib\site-packages\pip\_internal\commands\check.py
+venv\Lib\site-packages\pip\_internal\commands\completion.py
+venv\Lib\site-packages\pip\_internal\commands\configuration.py
+venv\Lib\site-packages\pip\_internal\commands\debug.py
+venv\Lib\site-packages\pip\_internal\commands\download.py
+venv\Lib\site-packages\pip\_internal\commands\freeze.py
+venv\Lib\site-packages\pip\_internal\commands\hash.py
+venv\Lib\site-packages\pip\_internal\commands\help.py
+venv\Lib\site-packages\pip\_internal\commands\index.py
+venv\Lib\site-packages\pip\_internal\commands\inspect.py
+venv\Lib\site-packages\pip\_internal\commands\install.py
+venv\Lib\site-packages\pip\_internal\commands\list.py
+venv\Lib\site-packages\pip\_internal\commands\lock.py
+venv\Lib\site-packages\pip\_internal\commands\search.py
+venv\Lib\site-packages\pip\_internal\commands\show.py
+venv\Lib\site-packages\pip\_internal\commands\uninstall.py
+venv\Lib\site-packages\pip\_internal\commands\wheel.py
+venv\Lib\site-packages\pip\_internal\commands\__init__.py
+venv\Lib\site-packages\pip\_internal\distributions\base.py
+venv\Lib\site-packages\pip\_internal\distributions\installed.py
+venv\Lib\site-packages\pip\_internal\distributions\sdist.py
+venv\Lib\site-packages\pip\_internal\distributions\wheel.py
+venv\Lib\site-packages\pip\_internal\distributions\__init__.py
+venv\Lib\site-packages\pip\_internal\index\collector.py
+venv\Lib\site-packages\pip\_internal\index\package_finder.py
+venv\Lib\site-packages\pip\_internal\index\sources.py
+venv\Lib\site-packages\pip\_internal\index\__init__.py
+venv\Lib\site-packages\pip\_internal\locations\base.py
+venv\Lib\site-packages\pip\_internal\locations\_distutils.py
+venv\Lib\site-packages\pip\_internal\locations\_sysconfig.py
+venv\Lib\site-packages\pip\_internal\locations\__init__.py
+venv\Lib\site-packages\pip\_internal\metadata\base.py
+venv\Lib\site-packages\pip\_internal\metadata\pkg_resources.py
+venv\Lib\site-packages\pip\_internal\metadata\_json.py
+venv\Lib\site-packages\pip\_internal\metadata\__init__.py
+venv\Lib\site-packages\pip\_internal\metadata\importlib\_compat.py
+venv\Lib\site-packages\pip\_internal\metadata\importlib\_dists.py
+venv\Lib\site-packages\pip\_internal\metadata\importlib\_envs.py
+venv\Lib\site-packages\pip\_internal\metadata\importlib\__init__.py
+venv\Lib\site-packages\pip\_internal\models\candidate.py
+venv\Lib\site-packages\pip\_internal\models\direct_url.py
+venv\Lib\site-packages\pip\_internal\models\format_control.py
+venv\Lib\site-packages\pip\_internal\models\index.py
+venv\Lib\site-packages\pip\_internal\models\installation_report.py
+venv\Lib\site-packages\pip\_internal\models\link.py
+venv\Lib\site-packages\pip\_internal\models\pylock.py
+venv\Lib\site-packages\pip\_internal\models\scheme.py
+venv\Lib\site-packages\pip\_internal\models\search_scope.py
+venv\Lib\site-packages\pip\_internal\models\selection_prefs.py
+venv\Lib\site-packages\pip\_internal\models\target_python.py
+venv\Lib\site-packages\pip\_internal\models\wheel.py
+venv\Lib\site-packages\pip\_internal\models\__init__.py
+venv\Lib\site-packages\pip\_internal\network\auth.py
+venv\Lib\site-packages\pip\_internal\network\cache.py
+venv\Lib\site-packages\pip\_internal\network\download.py
+venv\Lib\site-packages\pip\_internal\network\lazy_wheel.py
+venv\Lib\site-packages\pip\_internal\network\session.py
+venv\Lib\site-packages\pip\_internal\network\utils.py
+venv\Lib\site-packages\pip\_internal\network\xmlrpc.py
+venv\Lib\site-packages\pip\_internal\network\__init__.py
+venv\Lib\site-packages\pip\_internal\operations\check.py
+venv\Lib\site-packages\pip\_internal\operations\freeze.py
+venv\Lib\site-packages\pip\_internal\operations\prepare.py
+venv\Lib\site-packages\pip\_internal\operations\__init__.py
+venv\Lib\site-packages\pip\_internal\operations\build\build_tracker.py
+venv\Lib\site-packages\pip\_internal\operations\build\metadata.py
+venv\Lib\site-packages\pip\_internal\operations\build\metadata_editable.py
+venv\Lib\site-packages\pip\_internal\operations\build\wheel.py
+venv\Lib\site-packages\pip\_internal\operations\build\wheel_editable.py
+venv\Lib\site-packages\pip\_internal\operations\build\__init__.py
+venv\Lib\site-packages\pip\_internal\operations\install\wheel.py
+venv\Lib\site-packages\pip\_internal\operations\install\__init__.py
+venv\Lib\site-packages\pip\_internal\req\constructors.py
+venv\Lib\site-packages\pip\_internal\req\req_dependency_group.py
+venv\Lib\site-packages\pip\_internal\req\req_file.py
+venv\Lib\site-packages\pip\_internal\req\req_install.py
+venv\Lib\site-packages\pip\_internal\req\req_set.py
+venv\Lib\site-packages\pip\_internal\req\req_uninstall.py
+venv\Lib\site-packages\pip\_internal\req\__init__.py
+venv\Lib\site-packages\pip\_internal\resolution\base.py
+venv\Lib\site-packages\pip\_internal\resolution\__init__.py
+venv\Lib\site-packages\pip\_internal\resolution\legacy\resolver.py
+venv\Lib\site-packages\pip\_internal\resolution\legacy\__init__.py
+venv\Lib\site-packages\pip\_internal\resolution\resolvelib\base.py
+venv\Lib\site-packages\pip\_internal\resolution\resolvelib\candidates.py
+venv\Lib\site-packages\pip\_internal\resolution\resolvelib\factory.py
+venv\Lib\site-packages\pip\_internal\resolution\resolvelib\found_candidates.py
+venv\Lib\site-packages\pip\_internal\resolution\resolvelib\provider.py
+venv\Lib\site-packages\pip\_internal\resolution\resolvelib\reporter.py
+venv\Lib\site-packages\pip\_internal\resolution\resolvelib\requirements.py
+venv\Lib\site-packages\pip\_internal\resolution\resolvelib\resolver.py
+venv\Lib\site-packages\pip\_internal\resolution\resolvelib\__init__.py
+venv\Lib\site-packages\pip\_internal\utils\appdirs.py
+venv\Lib\site-packages\pip\_internal\utils\compat.py
+venv\Lib\site-packages\pip\_internal\utils\compatibility_tags.py
+venv\Lib\site-packages\pip\_internal\utils\datetime.py
+venv\Lib\site-packages\pip\_internal\utils\deprecation.py
+venv\Lib\site-packages\pip\_internal\utils\direct_url_helpers.py
+venv\Lib\site-packages\pip\_internal\utils\egg_link.py
+venv\Lib\site-packages\pip\_internal\utils\entrypoints.py
+venv\Lib\site-packages\pip\_internal\utils\filesystem.py
+venv\Lib\site-packages\pip\_internal\utils\filetypes.py
+venv\Lib\site-packages\pip\_internal\utils\glibc.py
+venv\Lib\site-packages\pip\_internal\utils\hashes.py
+venv\Lib\site-packages\pip\_internal\utils\logging.py
+venv\Lib\site-packages\pip\_internal\utils\misc.py
+venv\Lib\site-packages\pip\_internal\utils\packaging.py
+venv\Lib\site-packages\pip\_internal\utils\retry.py
+venv\Lib\site-packages\pip\_internal\utils\subprocess.py
+venv\Lib\site-packages\pip\_internal\utils\temp_dir.py
+venv\Lib\site-packages\pip\_internal\utils\unpacking.py
+venv\Lib\site-packages\pip\_internal\utils\urls.py
+venv\Lib\site-packages\pip\_internal\utils\virtualenv.py
+venv\Lib\site-packages\pip\_internal\utils\wheel.py
+venv\Lib\site-packages\pip\_internal\utils\_jaraco_text.py
+venv\Lib\site-packages\pip\_internal\utils\_log.py
+venv\Lib\site-packages\pip\_internal\utils\__init__.py
+venv\Lib\site-packages\pip\_internal\vcs\bazaar.py
+venv\Lib\site-packages\pip\_internal\vcs\git.py
+venv\Lib\site-packages\pip\_internal\vcs\mercurial.py
+venv\Lib\site-packages\pip\_internal\vcs\subversion.py
+venv\Lib\site-packages\pip\_internal\vcs\versioncontrol.py
+venv\Lib\site-packages\pip\_internal\vcs\__init__.py
+venv\Lib\site-packages\pip\_vendor\README.rst
+venv\Lib\site-packages\pip\_vendor\vendor.txt
+venv\Lib\site-packages\pip\_vendor\__init__.py
+venv\Lib\site-packages\pip\_vendor\cachecontrol\adapter.py
+venv\Lib\site-packages\pip\_vendor\cachecontrol\cache.py
+venv\Lib\site-packages\pip\_vendor\cachecontrol\controller.py
+venv\Lib\site-packages\pip\_vendor\cachecontrol\filewrapper.py
+venv\Lib\site-packages\pip\_vendor\cachecontrol\heuristics.py
+venv\Lib\site-packages\pip\_vendor\cachecontrol\LICENSE.txt
+venv\Lib\site-packages\pip\_vendor\cachecontrol\py.typed
+venv\Lib\site-packages\pip\_vendor\cachecontrol\serialize.py
+venv\Lib\site-packages\pip\_vendor\cachecontrol\wrapper.py
+venv\Lib\site-packages\pip\_vendor\cachecontrol\_cmd.py
+venv\Lib\site-packages\pip\_vendor\cachecontrol\__init__.py
+venv\Lib\site-packages\pip\_vendor\cachecontrol\caches\file_cache.py
+venv\Lib\site-packages\pip\_vendor\cachecontrol\caches\redis_cache.py
+venv\Lib\site-packages\pip\_vendor\cachecontrol\caches\__init__.py
+venv\Lib\site-packages\pip\_vendor\certifi\cacert.pem
+venv\Lib\site-packages\pip\_vendor\certifi\core.py
+venv\Lib\site-packages\pip\_vendor\certifi\LICENSE
+venv\Lib\site-packages\pip\_vendor\certifi\py.typed
+venv\Lib\site-packages\pip\_vendor\certifi\__init__.py
+venv\Lib\site-packages\pip\_vendor\certifi\__main__.py
+venv\Lib\site-packages\pip\_vendor\dependency_groups\LICENSE.txt
+venv\Lib\site-packages\pip\_vendor\dependency_groups\py.typed
+venv\Lib\site-packages\pip\_vendor\dependency_groups\_implementation.py
+venv\Lib\site-packages\pip\_vendor\dependency_groups\_lint_dependency_groups.py
+venv\Lib\site-packages\pip\_vendor\dependency_groups\_pip_wrapper.py
+venv\Lib\site-packages\pip\_vendor\dependency_groups\_toml_compat.py
+venv\Lib\site-packages\pip\_vendor\dependency_groups\__init__.py
+venv\Lib\site-packages\pip\_vendor\dependency_groups\__main__.py
+venv\Lib\site-packages\pip\_vendor\distlib\compat.py
+venv\Lib\site-packages\pip\_vendor\distlib\LICENSE.txt
+venv\Lib\site-packages\pip\_vendor\distlib\resources.py
+venv\Lib\site-packages\pip\_vendor\distlib\scripts.py
+venv\Lib\site-packages\pip\_vendor\distlib\t32.exe
+venv\Lib\site-packages\pip\_vendor\distlib\t64-arm.exe
+venv\Lib\site-packages\pip\_vendor\distlib\t64.exe
+venv\Lib\site-packages\pip\_vendor\distlib\util.py
+venv\Lib\site-packages\pip\_vendor\distlib\w32.exe
+venv\Lib\site-packages\pip\_vendor\distlib\w64-arm.exe
+venv\Lib\site-packages\pip\_vendor\distlib\w64.exe
+venv\Lib\site-packages\pip\_vendor\distlib\__init__.py
+venv\Lib\site-packages\pip\_vendor\distro\distro.py
+venv\Lib\site-packages\pip\_vendor\distro\LICENSE
+venv\Lib\site-packages\pip\_vendor\distro\py.typed
+venv\Lib\site-packages\pip\_vendor\distro\__init__.py
+venv\Lib\site-packages\pip\_vendor\distro\__main__.py
+venv\Lib\site-packages\pip\_vendor\idna\codec.py
+venv\Lib\site-packages\pip\_vendor\idna\compat.py
+venv\Lib\site-packages\pip\_vendor\idna\core.py
+venv\Lib\site-packages\pip\_vendor\idna\idnadata.py
+venv\Lib\site-packages\pip\_vendor\idna\intranges.py
+venv\Lib\site-packages\pip\_vendor\idna\LICENSE.md
+venv\Lib\site-packages\pip\_vendor\idna\package_data.py
+venv\Lib\site-packages\pip\_vendor\idna\py.typed
+venv\Lib\site-packages\pip\_vendor\idna\uts46data.py
+venv\Lib\site-packages\pip\_vendor\idna\__init__.py
+venv\Lib\site-packages\pip\_vendor\msgpack\COPYING
+venv\Lib\site-packages\pip\_vendor\msgpack\exceptions.py
+venv\Lib\site-packages\pip\_vendor\msgpack\ext.py
+venv\Lib\site-packages\pip\_vendor\msgpack\fallback.py
+venv\Lib\site-packages\pip\_vendor\msgpack\__init__.py
+venv\Lib\site-packages\pip\_vendor\packaging\LICENSE
+venv\Lib\site-packages\pip\_vendor\packaging\LICENSE.APACHE
+venv\Lib\site-packages\pip\_vendor\packaging\LICENSE.BSD
+venv\Lib\site-packages\pip\_vendor\packaging\markers.py
+venv\Lib\site-packages\pip\_vendor\packaging\metadata.py
+venv\Lib\site-packages\pip\_vendor\packaging\py.typed
+venv\Lib\site-packages\pip\_vendor\packaging\requirements.py
+venv\Lib\site-packages\pip\_vendor\packaging\specifiers.py
+venv\Lib\site-packages\pip\_vendor\packaging\tags.py
+venv\Lib\site-packages\pip\_vendor\packaging\utils.py
+venv\Lib\site-packages\pip\_vendor\packaging\version.py
+venv\Lib\site-packages\pip\_vendor\packaging\_elffile.py
+venv\Lib\site-packages\pip\_vendor\packaging\_manylinux.py
+venv\Lib\site-packages\pip\_vendor\packaging\_musllinux.py
+venv\Lib\site-packages\pip\_vendor\packaging\_parser.py
+venv\Lib\site-packages\pip\_vendor\packaging\_structures.py
+venv\Lib\site-packages\pip\_vendor\packaging\_tokenizer.py
+venv\Lib\site-packages\pip\_vendor\packaging\__init__.py
+venv\Lib\site-packages\pip\_vendor\packaging\licenses\_spdx.py
+venv\Lib\site-packages\pip\_vendor\packaging\licenses\__init__.py
+venv\Lib\site-packages\pip\_vendor\pkg_resources\LICENSE
+venv\Lib\site-packages\pip\_vendor\pkg_resources\__init__.py
+venv\Lib\site-packages\pip\_vendor\platformdirs\android.py
+venv\Lib\site-packages\pip\_vendor\platformdirs\api.py
+venv\Lib\site-packages\pip\_vendor\platformdirs\LICENSE
+venv\Lib\site-packages\pip\_vendor\platformdirs\macos.py
+venv\Lib\site-packages\pip\_vendor\platformdirs\py.typed
+venv\Lib\site-packages\pip\_vendor\platformdirs\unix.py
+venv\Lib\site-packages\pip\_vendor\platformdirs\version.py
+venv\Lib\site-packages\pip\_vendor\platformdirs\windows.py
+venv\Lib\site-packages\pip\_vendor\platformdirs\__init__.py
+venv\Lib\site-packages\pip\_vendor\platformdirs\__main__.py
+venv\Lib\site-packages\pip\_vendor\pygments\console.py
+venv\Lib\site-packages\pip\_vendor\pygments\filter.py
+venv\Lib\site-packages\pip\_vendor\pygments\formatter.py
+venv\Lib\site-packages\pip\_vendor\pygments\lexer.py
+venv\Lib\site-packages\pip\_vendor\pygments\LICENSE
+venv\Lib\site-packages\pip\_vendor\pygments\modeline.py
+venv\Lib\site-packages\pip\_vendor\pygments\plugin.py
+venv\Lib\site-packages\pip\_vendor\pygments\regexopt.py
+venv\Lib\site-packages\pip\_vendor\pygments\scanner.py
+venv\Lib\site-packages\pip\_vendor\pygments\sphinxext.py
+venv\Lib\site-packages\pip\_vendor\pygments\style.py
+venv\Lib\site-packages\pip\_vendor\pygments\token.py
+venv\Lib\site-packages\pip\_vendor\pygments\unistring.py
+venv\Lib\site-packages\pip\_vendor\pygments\util.py
+venv\Lib\site-packages\pip\_vendor\pygments\__init__.py
+venv\Lib\site-packages\pip\_vendor\pygments\__main__.py
+venv\Lib\site-packages\pip\_vendor\pygments\filters\__init__.py
+venv\Lib\site-packages\pip\_vendor\pygments\formatters\_mapping.py
+venv\Lib\site-packages\pip\_vendor\pygments\formatters\__init__.py
+venv\Lib\site-packages\pip\_vendor\pygments\lexers\python.py
+venv\Lib\site-packages\pip\_vendor\pygments\lexers\_mapping.py
+venv\Lib\site-packages\pip\_vendor\pygments\lexers\__init__.py
+venv\Lib\site-packages\pip\_vendor\pygments\styles\_mapping.py
+venv\Lib\site-packages\pip\_vendor\pygments\styles\__init__.py
+venv\Lib\site-packages\pip\_vendor\pyproject_hooks\LICENSE
+venv\Lib\site-packages\pip\_vendor\pyproject_hooks\py.typed
+venv\Lib\site-packages\pip\_vendor\pyproject_hooks\_impl.py
+venv\Lib\site-packages\pip\_vendor\pyproject_hooks\__init__.py
+venv\Lib\site-packages\pip\_vendor\pyproject_hooks\_in_process\_in_process.py
+venv\Lib\site-packages\pip\_vendor\pyproject_hooks\_in_process\__init__.py
+venv\Lib\site-packages\pip\_vendor\requests\adapters.py
+venv\Lib\site-packages\pip\_vendor\requests\api.py
+venv\Lib\site-packages\pip\_vendor\requests\auth.py
+venv\Lib\site-packages\pip\_vendor\requests\certs.py
+venv\Lib\site-packages\pip\_vendor\requests\compat.py
+venv\Lib\site-packages\pip\_vendor\requests\cookies.py
+venv\Lib\site-packages\pip\_vendor\requests\exceptions.py
+venv\Lib\site-packages\pip\_vendor\requests\help.py
+venv\Lib\site-packages\pip\_vendor\requests\hooks.py
+venv\Lib\site-packages\pip\_vendor\requests\LICENSE
+venv\Lib\site-packages\pip\_vendor\requests\models.py
+venv\Lib\site-packages\pip\_vendor\requests\packages.py
+venv\Lib\site-packages\pip\_vendor\requests\sessions.py
+venv\Lib\site-packages\pip\_vendor\requests\status_codes.py
+venv\Lib\site-packages\pip\_vendor\requests\structures.py
+venv\Lib\site-packages\pip\_vendor\requests\utils.py
+venv\Lib\site-packages\pip\_vendor\requests\_internal_utils.py
+venv\Lib\site-packages\pip\_vendor\requests\__init__.py
+venv\Lib\site-packages\pip\_vendor\requests\__version__.py
+venv\Lib\site-packages\pip\_vendor\resolvelib\LICENSE
+venv\Lib\site-packages\pip\_vendor\resolvelib\providers.py
+venv\Lib\site-packages\pip\_vendor\resolvelib\py.typed
+venv\Lib\site-packages\pip\_vendor\resolvelib\reporters.py
+venv\Lib\site-packages\pip\_vendor\resolvelib\structs.py
+venv\Lib\site-packages\pip\_vendor\resolvelib\__init__.py
+venv\Lib\site-packages\pip\_vendor\resolvelib\resolvers\abstract.py
+venv\Lib\site-packages\pip\_vendor\resolvelib\resolvers\criterion.py
+venv\Lib\site-packages\pip\_vendor\resolvelib\resolvers\exceptions.py
+venv\Lib\site-packages\pip\_vendor\resolvelib\resolvers\resolution.py
+venv\Lib\site-packages\pip\_vendor\resolvelib\resolvers\__init__.py
+venv\Lib\site-packages\pip\_vendor\rich\abc.py
+venv\Lib\site-packages\pip\_vendor\rich\align.py
+venv\Lib\site-packages\pip\_vendor\rich\ansi.py
+venv\Lib\site-packages\pip\_vendor\rich\bar.py
+venv\Lib\site-packages\pip\_vendor\rich\box.py
+venv\Lib\site-packages\pip\_vendor\rich\cells.py
+venv\Lib\site-packages\pip\_vendor\rich\color.py
+venv\Lib\site-packages\pip\_vendor\rich\color_triplet.py
+venv\Lib\site-packages\pip\_vendor\rich\columns.py
+venv\Lib\site-packages\pip\_vendor\rich\console.py
+venv\Lib\site-packages\pip\_vendor\rich\constrain.py
+venv\Lib\site-packages\pip\_vendor\rich\containers.py
+venv\Lib\site-packages\pip\_vendor\rich\control.py
+venv\Lib\site-packages\pip\_vendor\rich\default_styles.py
+venv\Lib\site-packages\pip\_vendor\rich\diagnose.py
+venv\Lib\site-packages\pip\_vendor\rich\emoji.py
+venv\Lib\site-packages\pip\_vendor\rich\errors.py
+venv\Lib\site-packages\pip\_vendor\rich\filesize.py
+venv\Lib\site-packages\pip\_vendor\rich\file_proxy.py
+venv\Lib\site-packages\pip\_vendor\rich\highlighter.py
+venv\Lib\site-packages\pip\_vendor\rich\json.py
+venv\Lib\site-packages\pip\_vendor\rich\jupyter.py
+venv\Lib\site-packages\pip\_vendor\rich\layout.py
+venv\Lib\site-packages\pip\_vendor\rich\LICENSE
+venv\Lib\site-packages\pip\_vendor\rich\live.py
+venv\Lib\site-packages\pip\_vendor\rich\live_render.py
+venv\Lib\site-packages\pip\_vendor\rich\logging.py
+venv\Lib\site-packages\pip\_vendor\rich\markup.py
+venv\Lib\site-packages\pip\_vendor\rich\measure.py
+venv\Lib\site-packages\pip\_vendor\rich\padding.py
+venv\Lib\site-packages\pip\_vendor\rich\pager.py
+venv\Lib\site-packages\pip\_vendor\rich\palette.py
+venv\Lib\site-packages\pip\_vendor\rich\panel.py
+venv\Lib\site-packages\pip\_vendor\rich\pretty.py
+venv\Lib\site-packages\pip\_vendor\rich\progress.py
+venv\Lib\site-packages\pip\_vendor\rich\progress_bar.py
+venv\Lib\site-packages\pip\_vendor\rich\prompt.py
+venv\Lib\site-packages\pip\_vendor\rich\protocol.py
+venv\Lib\site-packages\pip\_vendor\rich\py.typed
+venv\Lib\site-packages\pip\_vendor\rich\region.py
+venv\Lib\site-packages\pip\_vendor\rich\repr.py
+venv\Lib\site-packages\pip\_vendor\rich\rule.py
+venv\Lib\site-packages\pip\_vendor\rich\scope.py
+venv\Lib\site-packages\pip\_vendor\rich\screen.py
+venv\Lib\site-packages\pip\_vendor\rich\segment.py
+venv\Lib\site-packages\pip\_vendor\rich\spinner.py
+venv\Lib\site-packages\pip\_vendor\rich\status.py
+venv\Lib\site-packages\pip\_vendor\rich\style.py
+venv\Lib\site-packages\pip\_vendor\rich\styled.py
+venv\Lib\site-packages\pip\_vendor\rich\syntax.py
+venv\Lib\site-packages\pip\_vendor\rich\table.py
+venv\Lib\site-packages\pip\_vendor\rich\terminal_theme.py
+venv\Lib\site-packages\pip\_vendor\rich\text.py
+venv\Lib\site-packages\pip\_vendor\rich\theme.py
+venv\Lib\site-packages\pip\_vendor\rich\themes.py
+venv\Lib\site-packages\pip\_vendor\rich\traceback.py
+venv\Lib\site-packages\pip\_vendor\rich\tree.py
+venv\Lib\site-packages\pip\_vendor\rich\_cell_widths.py
+venv\Lib\site-packages\pip\_vendor\rich\_emoji_codes.py
+venv\Lib\site-packages\pip\_vendor\rich\_emoji_replace.py
+venv\Lib\site-packages\pip\_vendor\rich\_export_format.py
+venv\Lib\site-packages\pip\_vendor\rich\_extension.py
+venv\Lib\site-packages\pip\_vendor\rich\_fileno.py
+venv\Lib\site-packages\pip\_vendor\rich\_inspect.py
+venv\Lib\site-packages\pip\_vendor\rich\_log_render.py
+venv\Lib\site-packages\pip\_vendor\rich\_loop.py
+venv\Lib\site-packages\pip\_vendor\rich\_null_file.py
+venv\Lib\site-packages\pip\_vendor\rich\_palettes.py
+venv\Lib\site-packages\pip\_vendor\rich\_pick.py
+venv\Lib\site-packages\pip\_vendor\rich\_ratio.py
+venv\Lib\site-packages\pip\_vendor\rich\_spinners.py
+venv\Lib\site-packages\pip\_vendor\rich\_stack.py
+venv\Lib\site-packages\pip\_vendor\rich\_timer.py
+venv\Lib\site-packages\pip\_vendor\rich\_win32_console.py
+venv\Lib\site-packages\pip\_vendor\rich\_windows.py
+venv\Lib\site-packages\pip\_vendor\rich\_windows_renderer.py
+venv\Lib\site-packages\pip\_vendor\rich\_wrap.py
+venv\Lib\site-packages\pip\_vendor\rich\__init__.py
+venv\Lib\site-packages\pip\_vendor\rich\__main__.py
+venv\Lib\site-packages\pip\_vendor\tomli\LICENSE
+venv\Lib\site-packages\pip\_vendor\tomli\py.typed
+venv\Lib\site-packages\pip\_vendor\tomli\_parser.py
+venv\Lib\site-packages\pip\_vendor\tomli\_re.py
+venv\Lib\site-packages\pip\_vendor\tomli\_types.py
+venv\Lib\site-packages\pip\_vendor\tomli\__init__.py
+venv\Lib\site-packages\pip\_vendor\tomli_w\LICENSE
+venv\Lib\site-packages\pip\_vendor\tomli_w\py.typed
+venv\Lib\site-packages\pip\_vendor\tomli_w\_writer.py
+venv\Lib\site-packages\pip\_vendor\tomli_w\__init__.py
+venv\Lib\site-packages\pip\_vendor\truststore\LICENSE
+venv\Lib\site-packages\pip\_vendor\truststore\py.typed
+venv\Lib\site-packages\pip\_vendor\truststore\_api.py
+venv\Lib\site-packages\pip\_vendor\truststore\_macos.py
+venv\Lib\site-packages\pip\_vendor\truststore\_openssl.py
+venv\Lib\site-packages\pip\_vendor\truststore\_ssl_constants.py
+venv\Lib\site-packages\pip\_vendor\truststore\_windows.py
+venv\Lib\site-packages\pip\_vendor\truststore\__init__.py
+venv\Lib\site-packages\pip\_vendor\urllib3\connection.py
+venv\Lib\site-packages\pip\_vendor\urllib3\connectionpool.py
+venv\Lib\site-packages\pip\_vendor\urllib3\exceptions.py
+venv\Lib\site-packages\pip\_vendor\urllib3\fields.py
+venv\Lib\site-packages\pip\_vendor\urllib3\filepost.py
+venv\Lib\site-packages\pip\_vendor\urllib3\LICENSE.txt
+venv\Lib\site-packages\pip\_vendor\urllib3\poolmanager.py
+venv\Lib\site-packages\pip\_vendor\urllib3\request.py
+venv\Lib\site-packages\pip\_vendor\urllib3\response.py
+venv\Lib\site-packages\pip\_vendor\urllib3\_collections.py
+venv\Lib\site-packages\pip\_vendor\urllib3\_version.py
+venv\Lib\site-packages\pip\_vendor\urllib3\__init__.py
+venv\Lib\site-packages\pip\_vendor\urllib3\contrib\appengine.py
+venv\Lib\site-packages\pip\_vendor\urllib3\contrib\ntlmpool.py
+venv\Lib\site-packages\pip\_vendor\urllib3\contrib\pyopenssl.py
+venv\Lib\site-packages\pip\_vendor\urllib3\contrib\securetransport.py
+venv\Lib\site-packages\pip\_vendor\urllib3\contrib\socks.py
+venv\Lib\site-packages\pip\_vendor\urllib3\contrib\_appengine_environ.py
+venv\Lib\site-packages\pip\_vendor\urllib3\contrib\__init__.py
+venv\Lib\site-packages\pip\_vendor\urllib3\contrib\_securetransport\bindings.py
+venv\Lib\site-packages\pip\_vendor\urllib3\contrib\_securetransport\low_level.py
+venv\Lib\site-packages\pip\_vendor\urllib3\contrib\_securetransport\__init__.py
+venv\Lib\site-packages\pip\_vendor\urllib3\packages\six.py
+venv\Lib\site-packages\pip\_vendor\urllib3\packages\__init__.py
+venv\Lib\site-packages\pip\_vendor\urllib3\packages\backports\makefile.py
+venv\Lib\site-packages\pip\_vendor\urllib3\packages\backports\weakref_finalize.py
+venv\Lib\site-packages\pip\_vendor\urllib3\packages\backports\__init__.py
+venv\Lib\site-packages\pip\_vendor\urllib3\util\connection.py
+venv\Lib\site-packages\pip\_vendor\urllib3\util\proxy.py
+venv\Lib\site-packages\pip\_vendor\urllib3\util\queue.py
+venv\Lib\site-packages\pip\_vendor\urllib3\util\request.py
+venv\Lib\site-packages\pip\_vendor\urllib3\util\response.py
+venv\Lib\site-packages\pip\_vendor\urllib3\util\retry.py
+venv\Lib\site-packages\pip\_vendor\urllib3\util\ssltransport.py
+venv\Lib\site-packages\pip\_vendor\urllib3\util\ssl_.py
+venv\Lib\site-packages\pip\_vendor\urllib3\util\ssl_match_hostname.py
+venv\Lib\site-packages\pip\_vendor\urllib3\util\timeout.py
+venv\Lib\site-packages\pip\_vendor\urllib3\util\url.py
+venv\Lib\site-packages\pip\_vendor\urllib3\util\wait.py
+venv\Lib\site-packages\pip\_vendor\urllib3\util\__init__.py
+venv\Lib\site-packages\pip-25.3.dist-info\entry_points.txt
+venv\Lib\site-packages\pip-25.3.dist-info\INSTALLER
+venv\Lib\site-packages\pip-25.3.dist-info\METADATA
+venv\Lib\site-packages\pip-25.3.dist-info\RECORD
+venv\Lib\site-packages\pip-25.3.dist-info\REQUESTED
+venv\Lib\site-packages\pip-25.3.dist-info\WHEEL
+venv\Lib\site-packages\pip-25.3.dist-info\licenses\AUTHORS.txt
+venv\Lib\site-packages\pip-25.3.dist-info\licenses\LICENSE.txt
+venv\Lib\site-packages\pip-25.3.dist-info\licenses\src\pip\_vendor\cachecontrol\LICENSE.txt
+venv\Lib\site-packages\pip-25.3.dist-info\licenses\src\pip\_vendor\certifi\LICENSE
+venv\Lib\site-packages\pip-25.3.dist-info\licenses\src\pip\_vendor\dependency_groups\LICENSE.txt
+venv\Lib\site-packages\pip-25.3.dist-info\licenses\src\pip\_vendor\distlib\LICENSE.txt
+venv\Lib\site-packages\pip-25.3.dist-info\licenses\src\pip\_vendor\distro\LICENSE
+venv\Lib\site-packages\pip-25.3.dist-info\licenses\src\pip\_vendor\idna\LICENSE.md
+venv\Lib\site-packages\pip-25.3.dist-info\licenses\src\pip\_vendor\msgpack\COPYING
+venv\Lib\site-packages\pip-25.3.dist-info\licenses\src\pip\_vendor\packaging\LICENSE
+venv\Lib\site-packages\pip-25.3.dist-info\licenses\src\pip\_vendor\packaging\LICENSE.APACHE
+venv\Lib\site-packages\pip-25.3.dist-info\licenses\src\pip\_vendor\packaging\LICENSE.BSD
+venv\Lib\site-packages\pip-25.3.dist-info\licenses\src\pip\_vendor\pkg_resources\LICENSE
+venv\Lib\site-packages\pip-25.3.dist-info\licenses\src\pip\_vendor\platformdirs\LICENSE
+venv\Lib\site-packages\pip-25.3.dist-info\licenses\src\pip\_vendor\pygments\LICENSE
+venv\Lib\site-packages\pip-25.3.dist-info\licenses\src\pip\_vendor\pyproject_hooks\LICENSE
+venv\Lib\site-packages\pip-25.3.dist-info\licenses\src\pip\_vendor\requests\LICENSE
+venv\Lib\site-packages\pip-25.3.dist-info\licenses\src\pip\_vendor\resolvelib\LICENSE
+venv\Lib\site-packages\pip-25.3.dist-info\licenses\src\pip\_vendor\rich\LICENSE
+venv\Lib\site-packages\pip-25.3.dist-info\licenses\src\pip\_vendor\tomli\LICENSE
+venv\Lib\site-packages\pip-25.3.dist-info\licenses\src\pip\_vendor\tomli_w\LICENSE
+venv\Lib\site-packages\pip-25.3.dist-info\licenses\src\pip\_vendor\truststore\LICENSE
+venv\Lib\site-packages\pip-25.3.dist-info\licenses\src\pip\_vendor\urllib3\LICENSE.txt
+venv\Scripts\activate
+venv\Scripts\activate.bat
+venv\Scripts\activate.fish
+venv\Scripts\Activate.ps1
+venv\Scripts\deactivate.bat
+venv\Scripts\pip.exe
+venv\Scripts\pip3.14.exe
+venv\Scripts\pip3.exe
+venv\Scripts\python.exe
+venv\Scripts\pythonw.exe

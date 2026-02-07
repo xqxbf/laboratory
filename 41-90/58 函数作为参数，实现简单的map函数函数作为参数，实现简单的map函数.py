@@ -1,3 +1,5 @@
+# 函数作为参数，实现简单的map函数
+
 def my_map (func, iterable):
     result = []
     for item in iterable:

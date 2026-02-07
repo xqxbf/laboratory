@@ -1,3 +1,5 @@
+# 读写ini格式的配置文件
+
 import os
 import logging
 import configparser

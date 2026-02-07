@@ -1,3 +1,5 @@
+# 处理网络请求中的异常
+
 import requests
 import os
 import logging

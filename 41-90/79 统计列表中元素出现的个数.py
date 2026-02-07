@@ -1,3 +1,5 @@
+# 统计列表中元素出现的个数
+
 from collections import Counter
 
 def count_elements(lst):
